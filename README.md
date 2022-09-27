@@ -1,5 +1,11 @@
 # car_price_prediction
-Predicting car prices using regression with feature engineering.
+Predicting car prices using regression with feature engineering. Topics covered in this project include:
+*Creating a regression model from scratch (that is, direct application of linear algebra, not using built-in regression functions)
+*Exploratory data analysis
+*Setting up and implementing a validation framework
+*Performing basic feature engineering
+*Controlling model through regularization
+*Using the model to predict car prices
 
 Project from Machine Learning Bookcamp by Alexey Grigorev, copyright Manning Publications, 2021.
 Available from publisher at https://www.manning.com/books/machine-learning-bookcamp.
