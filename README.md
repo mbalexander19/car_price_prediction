@@ -7,7 +7,7 @@ Predicting car prices using regression with feature engineering. Topics covered 
 * Controlling model through regularization <br>
 * Using the model to predict car prices <br>
 
-A [second version](https://github.com/mbalexander19/car_price_prediction/blob/main/car-price-project-sklearn.ipynb) of this project is implemented using Scikit-learn.
+The [original project](https://github.com/mbalexander19/car_price_prediction/blob/main/chapter-02-car-price-project.ipynb) implements feature engineering and linear regression from scratch. A [second version](https://github.com/mbalexander19/car_price_prediction/blob/main/car-price-project-sklearn.ipynb) of this project is implemented using Scikit-learn.
 
 Project from Machine Learning Bookcamp by Alexey Grigorev, copyright Manning Publications, 2021.
 Available from publisher at https://www.manning.com/books/machine-learning-bookcamp.
